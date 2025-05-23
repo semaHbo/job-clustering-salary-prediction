@@ -161,9 +161,3 @@ Projeyi GitHub’a yükledikten sonra:
 Pull request’ler her zaman kabul edilir. Hataları, önerileri ve katkıları bekliyorum!
 
 ---
-
-## 📬 İletişim
-
-**Geliştirici:** [github.com/semaHbo](https://github.com/semaHbo)  
-📧 Mail: [semaahacibekiroglu@gmail.com]  
-🔗 Proje: `job-clustering-salary-prediction`
